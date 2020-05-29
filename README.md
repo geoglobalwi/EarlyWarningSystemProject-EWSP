@@ -5,5 +5,13 @@ Early Warning System Project is evolution of an 'idea' to explore methods, obser
 
 The Project initially started as one of MILLENNIUM project in the year 2000 and collective contribution by various National and International Scientifc Projects.
 
-It is open source platform  (FOSS)– 'unique' one and frist one of it’s kind.
+It is open source platform  (FOSS)– 'unique' one and first one of it’s kind.
+
+EWSP is powered by a set of open source projects, API's and open source codes, and an extensive community of open source and freelance developers.
+
+Basically it is collections of various Scientific methodologies, operational codes, software and proven programming code base contributed by Open Source enthusiasts from all around the world. 
+
+
+Join the weekly EWSP Community video call • Fridays @ 11:30am CT : https://meet.jit.si/EWSP
+
 
